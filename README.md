@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [Updated CSS to make the app visually appealing  ] List anything else that you can get done to improve the app functionality!
-
+* [Updated CSS to make the app visually appealing  ] 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
