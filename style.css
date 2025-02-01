@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
 
 body {
-    font-family: 'Cabin';
-    background-color: #758190;
+    font-family: 'Gregloo';
+    background-color: #d1b0d0;
+    color:#511c1c;
 }
 
 #tentacles {
@@ -11,7 +12,8 @@ body {
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: #632f47;
+    color:#f0eaea;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
@@ -21,15 +23,31 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: baseline;
+    cursor: pointer;
+    justify-content: space-evenly;
+}
+.bubble {
+    display: inline-block; 
+    background-color: #d2699a; 
+    padding: 15px 30px; 
+    border-radius: 25px; 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #ffffff; 
+    box-shadow: 0 4px 10px rgba(189, 28, 28, 0.2); 
+    text-align: center; 
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #b3c2d3;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
     width: 100%;
     text-align: center;
+    box-shadow: 0 0 30px;
+
 }
 
 #num-contributions, #total-raised, #num-games {
@@ -45,11 +63,11 @@ body {
 .game-img {
     width: 100%;
     border-radius: 5px;
-    box-shadow: 0 0 10px #FFFFFF;
+    box-shadow: 0 0 10px #f13434;
 }
 
 .game-card {
-    background-color: #FFFFFF;
+    background-color: #c6e2e7e1;
     padding: 1%;
     margin: 1%;
     width: 300px;
@@ -59,15 +77,19 @@ body {
 
 .game-card:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px #e6adc5;
 }
 
 #button-container {
     text-align: center;
+    font-weight: bold; 
+    font-size: 30px; 
+    background-color: #632f47;
+
 }
 
 button {
-    font-family: 'Cabin';
+    font-family: 'Julius sans One';
     border: none;
     padding: 1%;
     margin: 1%;
