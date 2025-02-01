@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 ![seaworthyapp1](https://github.com/user-attachments/assets/b41c0987-ddc0-4add-9bfb-736b6de570c4)
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='video walkthrough of website. vary shades of pink background. Image cards are sky blue with a red shadow.' title='Video Walkthrough' width='4' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with lice cap 
