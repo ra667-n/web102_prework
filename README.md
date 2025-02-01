@@ -22,22 +22,23 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[seaworthyapp1](https://github.com/user-attachments/assets/31fb78cf-2d62-4f00-adfa-c6b0b49fe2ec)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='sea worthy app' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![seaworthyapp1](https://github.com/user-attachments/assets/b41c0987-ddc0-4add-9bfb-736b6de570c4)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with lice cap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-![seaworthyapp1](https://github.com/user-attachments/assets/b41c0987-ddc0-4add-9bfb-736b6de570c4)
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 - I had to remember how to use javascript but I also learned to spread
 - I had some interesting errors
-- The GIF wasn't the easiest 
+- The GIF wasn't the easiest
+- When I forked the repository, it didn't work the first two times 
 
 ## License
 
