@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='sea worthy app' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[seaworthyapp1](https://github.com/user-attachments/assets/b41c0987-ddc0-4add-9bfb-736b6de570c4)
+(https://github.com/user-attachments/assets/b41c0987-ddc0-4add-9bfb-736b6de570c4)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with lice cap 
 <!-- Recommended tools:
