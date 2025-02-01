@@ -35,6 +35,9 @@ GIF created with lice cap
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I had to remember how to use javascript but I also learned to spread
+- I had some interesting errors
+- The GIF wasn't the easiest 
 
 ## License
 
