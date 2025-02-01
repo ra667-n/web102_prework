@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+![seaworthyapp1](https://github.com/user-attachments/assets/b41c0987-ddc0-4add-9bfb-736b6de570c4)
 <img src='sea worthy app' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-(https://github.com/user-attachments/assets/b41c0987-ddc0-4add-9bfb-736b6de570c4)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with lice cap 
 <!-- Recommended tools:
