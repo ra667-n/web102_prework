@@ -15,13 +15,13 @@ The following **required** functionality is completed:
 * [✅] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [✅ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games or all games.
 
-The following **optional** features are implemented:
-
+The following *optional** features are implemented:
 * [Updated CSS to make the app visually appealing  ] 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![seaworthyapp1](https://github.com/user-attachments/assets/b41c0987-ddc0-4add-9bfb-736b6de570c4)
+![seaworthyapp2](https://github.com/user-attachments/assets/ff86af56-0f99-4944-9420-74356d9b6e99)
 
 <img src='video walkthrough of website. vary shades of pink background. Image cards are sky blue with a red shadow.' title='Video Walkthrough' width='4' alt='Video Walkthrough' />
 
