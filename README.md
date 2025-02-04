@@ -2,7 +2,7 @@
 
 Submitted by: **Roheemat Adebiyi**
 
-**Seaworthy** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Seaworthy** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. The website serves as a comprehensive platform to showcase detailed information about the various games they have successfully funded.
 
 Time spent: **15** hours spent in total
 
