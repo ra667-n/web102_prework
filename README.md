@@ -22,6 +22,7 @@ The following *optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 ![seaworthyapp2](https://github.com/user-attachments/assets/ff86af56-0f99-4944-9420-74356d9b6e99)
+![seaworthyapp](https://github.com/user-attachments/assets/4649a0ab-78ad-4f51-b747-a18b5d61261a)
 
 <img src='video walkthrough of website. vary shades of pink background. Image cards are sky blue with a red shadow.' title='Video Walkthrough' width='4' alt='Video Walkthrough' />
 
